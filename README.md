@@ -1,6 +1,6 @@
 # 项目-数据库设计学习
 
-## 一、概述
+## 一、 概述
 
 ###  1、 编写目的
 
@@ -37,13 +37,11 @@
 
 ~~~
 
-## 参考资料
-
+## 三、 参考资料
+ 
 + [数据库设计的基本步骤](https://blog.csdn.net/huyr_123/article/details/61417850)
 + [数据库设计的几个建议](https://www.cnblogs.com/junwangzhe/p/6095219.html)
 + [数据库设计三大范式](https://www.cnblogs.com/knowledgesea/p/3667395.html)
 + [数据库设计（一）——数据库设计](http://blog.51cto.com/9291927/2087925)
-
-
-
++ [15个nosql数据库](https://www.cnblogs.com/wpcnblog/p/7238811.html)
 + [MySQL压测--TPCC安装，测试](http://blog.51cto.com/darrenmemos/2130202)
